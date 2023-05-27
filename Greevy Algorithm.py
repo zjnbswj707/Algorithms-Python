@@ -114,6 +114,6 @@ Review
 We used greedy algorithms to solve the hair cutting problem, but in fact, there are many places where greedy algorithms can be used, such as the TSP problem and the 
 Prim problem. Greedy algorithm is a fundamental algorithm that seeks local optimal solutions with high efficiency and a wide range of applications.
 
-Thank you for watching. Translation reference https://fanyi.baidu.com
+Thank you for watching. Translation reference https://www.bing.com/translator?ref=TThis&text=&from=en&to=zh-Hans
 (author: zjnbswj707)
 '''
